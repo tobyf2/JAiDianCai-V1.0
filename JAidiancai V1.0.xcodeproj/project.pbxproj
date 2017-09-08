@@ -46,10 +46,10 @@
 		F969C2391F40676900690534 /* StorageController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StorageController.m; sourceTree = "<group>"; };
 		F9783A3A1F472B9200A3D52C /* MealDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MealDetailViewController.h; path = "JAidiancai V0.0/MealDetailViewController.h"; sourceTree = "<group>"; };
 		F9783A3B1F472B9200A3D52C /* MealDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MealDetailViewController.m; path = "JAidiancai V0.0/MealDetailViewController.m"; sourceTree = "<group>"; };
-		F9783A401F472DE100A3D52C /* CreatMealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CreatMealViewController.h; sourceTree = "<group>"; };
-		F9783A411F472DE100A3D52C /* CreatMealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CreatMealViewController.m; sourceTree = "<group>"; };
-		F9783A431F47450B00A3D52C /* MealCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MealCell.h; sourceTree = "<group>"; };
-		F9783A441F47450B00A3D52C /* MealCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MealCell.m; sourceTree = "<group>"; };
+		F9783A401F472DE100A3D52C /* CreatMealViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CreatMealViewController.h; path = "JAidiancai V0.0/CreatMealViewController.h"; sourceTree = "<group>"; };
+		F9783A411F472DE100A3D52C /* CreatMealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CreatMealViewController.m; path = "JAidiancai V0.0/CreatMealViewController.m"; sourceTree = "<group>"; };
+		F9783A431F47450B00A3D52C /* MealCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MealCell.h; path = "JAidiancai V0.0/MealCell.h"; sourceTree = "<group>"; };
+		F9783A441F47450B00A3D52C /* MealCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MealCell.m; path = "JAidiancai V0.0/MealCell.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
